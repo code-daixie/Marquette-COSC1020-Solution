@@ -1,2 +1,3 @@
 # Marquette-COSC1020-Solution
-the solution to cosc1020
+
+## 微信：scs_ryan
